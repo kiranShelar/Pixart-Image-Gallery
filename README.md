@@ -1,3 +1,9 @@
+CHECK IT OUT AT : https://pix-art.netlify.app/
+
+
+Elegant Image gallery with features of pagination, lightbox & query search through UNSPLASH API
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
